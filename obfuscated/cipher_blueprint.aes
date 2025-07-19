@@ -1,1 +1,22 @@
+-----BEGIN GRAVITY FALLS OFFICIAL CIPHER FILE-----
+[!] AUTENTICIDADE VERIFICADA PELA SOCIEDADE DO OLHO CEGO [!]
 
+=== METADADOS ===
+VERSION: 3.1.6.18
+ENCRYPTION: AES-256-CBC-SHA512 (ITERATIONS: 1,000,000)
+PASSWORD_HINT: "PRIMEIRO NOME DO STANLEY"
+REFERENCE: EPISODE S2E18 (DIPPER VS BILL)
+
+=== INSTRUÇÕES DE DECIFRAÇÃO ===
+1. Baixe este arquivo
+2. Execute no terminal:
+openssl enc -d -aes-256-cbc -md sha512 -pbkdf2 -iter 1000000 -salt -in cipher_blueprint.aes -k "weirdmageddon"
+
+=== CONTEÚDO CRIPTOGRAFADO (BASE64) ===
+U2FsdGVkX1+9D8pwH4JVJcVYw3uJ4V5m7Q0J0YzWqK4K9JZz7v5n5QY9Xy7w
+Q3VhbmRvIGEgZXN0cmVsYSBjYWlyLCBkZWl4ZQpPIHZlbyBkbyBBeG9sb3RlIHJlc3BvbmRlcgpD
+b20gc3VhcyBwYWxhdnJhcyBlbSBjb2RpZ28K
+
+=== AVISO FINAL ===
+*"Acesso não autorizado viola o Artigo 618 do Código Secreto de Gravity Falls"*
+-----END FILE-----
