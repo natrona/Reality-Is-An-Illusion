@@ -1,16 +1,32 @@
-# GitHub Pages
+🌀 REALITY-IS-AN-ILLUSION  
+«O universo é um holograma. Compre uma TV!»  
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey natrona!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/natrona/Reality-Is-An-Illusion/issues/1)
+[![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-black.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-black.svg?style=flat-square)](https://yourusername.github.io/Reality-Is-An-Illusion/)
+[![Weirdness Level](https://img.shields.io/badge/Weirdness%20Level-666%25-black.svg?style=flat-square)](https://github.com/yourusername/Reality-Is-An-Illusion)
+[![Bill Approved](https://img.shields.io/badge/Bill_Cipher-Approved-black.svg?style=flat-square)](https://github.com/yourusername/Reality-Is-An-Illusion)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 🔮 O QUE VOCÊ ENCONTRARÁ AQUI?  
+- 👁️ **Análise Psicológica Profunda** de Bill Cipher  
+- △ **Simbologia Obscura** (Triângulos, Illuminati, Alquimia)  
+- 📜 **Teorias Não Resolvidas** (Axolotl, Códigos Ocultos)  
+- 🕵️ **Referências Ocultas** (Lovecraft, Twin Peaks)  
 
+---
+
+### 🌀 ACESSO RÁPIDO  
+| Arquivo               | Descrição                          |  
+|-----------------------|-----------------------------------|  
+| [📜 psicologia.md](docs/psicologia.md) | A mente por trás do caos |  
+| [🔺 simbolismo.md](docs/simbolismo.md) | Símbolos interdimensonais |  
+| [❓ teorias.md](docs/teorias.md)       | Mistérios não resolvidos |  
+
+---
+
+### 🛠️ TECNOLOGIAS DO CAOS  
+```plaintext
+🌀 Linguagem: Markdown + HTML  
+🌀 Hospedagem: GitHub Pages  
+🌀 Licença: CC BY-SA 4.0  
